@@ -1,0 +1,10 @@
+export EDITOR='nvim'
+alias -g vi='nvim'
+alias -g vim='nvim'
+alias -g k='kubectl'
+alias -g pod='podman'
+alias -g code='vscodium'
+alias -g i3cfg='nvim ~/.config/i3/config'
+alias -g polycfg='nvim ~/.config/polybar/forest/config.ini'
+alias -g ttycfg='nvim ~/.config/alacritty/alacritty.yml'
+
