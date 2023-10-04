@@ -7,4 +7,4 @@ alias -g code='vscodium'
 alias -g i3cfg='nvim ~/.config/i3/config'
 alias -g polycfg='nvim ~/.config/polybar/forest/config.ini'
 alias -g ttycfg='nvim ~/.config/alacritty/alacritty.yml'
-
+alias -g work='cd ~/workspace'
